@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/impranav99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimpranav99&screen_name=impranav99)
 
 
-## I'm a Developer, Photographer and Writter!!
+## I'm a Developer and Photographer.
 
 
 - 🔭 Passonate about developing new technology.
