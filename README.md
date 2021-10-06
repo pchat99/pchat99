@@ -65,6 +65,14 @@
  <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff"></a> 
  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"></a>
  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff"></a>
+ 
+ ## 📊 Github stats
+ <br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pchat99's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pchat99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pchat99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchat99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+ <br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
  
 
@@ -91,18 +99,6 @@
 - [Continuous deployment of a webserver with zero downtime using Jenkins, Kubernetes, and Docker with E2E automation.](https://pchaturvedi19989.medium.com/continuous-deployment-of-a-webserver-with-zero-downtime-using-jenkins-kubernetes-and-docker-with-14afd5e87186)
 - [Integration of Prometheus and Grafana and making their data Persistent.](https://www.linkedin.com/pulse/integration-prometheus-grafana-making-data-persistent-chaturvedi/)
 - [Integration of Prometheus and Grafana and making their data Persistent.](https://www.linkedin.com/pulse/integration-prometheus-grafana-making-data-persistent-chaturvedi/)
-
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pchat99's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pchat99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pchat99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchat99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
