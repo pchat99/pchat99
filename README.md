@@ -18,6 +18,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <a href="https://twitter.com/impranav99" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/pranav-chaturvedi99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pchaturvedi19989.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a
 href="https://www.instagram.com/framesxpc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="mailto:shutterbug99pc@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### 📢 Find me elsewhere
@@ -56,6 +57,7 @@ href="https://www.instagram.com/framesxpc/"><img src="https://img.shields.io/bad
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a> 
     <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"></a>
+    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"></a>
  
  ### 💻 Software and tools
 
