@@ -1,4 +1,6 @@
-### Hi there, I'm Pranav Chaturvedi 👋
+<h1 align="center">Hi there, I'm Pranav Chaturvedi <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
 
 
 ## I'm a Developer and Photographer.
