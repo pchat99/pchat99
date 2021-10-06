@@ -1,10 +1,6 @@
 ### Hi there, I'm Pranav Chaturvedi 👋
 
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/impranav99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimpranav99&screen_name=impranav99)
-
-
 ## I'm a Developer and Photographer.
 
 
@@ -17,7 +13,7 @@
 
 
 ### Connect with me:
-
+ <a href="https://twitter.com/impranav99" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/pranav-chaturvedi99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pchaturvedi19989.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
