@@ -5,8 +5,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## I'm a Developer and Photographer.
 
-
-- 🔭 Passonate about developing new technology.
 - 🌱 I love to learn about new technologies.
 - 👯 Looking to write more articles on Medium.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
