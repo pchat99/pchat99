@@ -23,7 +23,7 @@ href="https://www.instagram.com/framesxpc/"><img src="https://img.shields.io/bad
 
 ### 📢 Find me elsewhere
 <p align="left">
-<a href="https://www.hackerrank.com/abhishekmaira191">
+<a href="https://www.hackerrank.com/pchaturvedi19989">
 <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
 </a>&nbsp;&nbsp;&nbsp;
 </p>
