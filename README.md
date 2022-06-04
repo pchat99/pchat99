@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 🌱 I love to learn about new technologies.
 - 👯 Looking to write more articles on Medium.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen to Hip-Hop Music.
 - 💬 Photography is a hobby alongwith playing Cricket.
 
